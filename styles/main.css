@@ -21,6 +21,7 @@ header {
 	border-bottom: solid 3px #931420;
 	padding-top: 1.5em;
 	padding-bottom: 2em;
+	background: linear-gradient(30deg, #f6bb73 0%, floralwhite 30%, white 50%, floralwhite 80%, #f6bb73 100%);
 }
 header img {
 	float: left;
